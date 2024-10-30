@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there I'm Glória 👩🏻‍💻👋
 
-<!--
-**gloria-mariass/gloria-mariass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&color=F70000&center=true&vCenter=true&width=500&lines=Fullstack+Developer;IT+Student)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<a href="https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723886.htm#fromView=search&page=1&position=34&uuid=f602ef3f-d077-4023-992c-2c9c6e909a37">
+    <img src="https://raw.githubusercontent.com/gloria-mariass/gloria-mariass/main/assets/images/Set_of_programmers_02_01.jpg" alt="Set of Programmers" width="500" align="right"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently studying **IT at IMD/UFRN**
+- 📚 Graduated from a technical course in **Web Development at IFRN**
+- 💻 Working mostly with **JavaScript, React, Node.js, Java, Spring**
+- 🧠 Always learning: **Flutter, Machine Learning**
+
+### 💪 Core Skills
+![Core Skills](https://skillicons.dev/icons?i=java,spring,html,css,javascript,bootstrap,react,git,github,maven,php,py,flask,sqlite,cpp,cmake,postman,figma,vscode,&theme=dark&perline=8)
+
+### 🚀 Skills in Progress
+![My Skills](https://skillicons.dev/icons?i=dart,docker,flutter,nextjs,nodejs,postgres,prisma,&theme=dark&perline=5)
+
+### 📈 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloria-mariass&layout=donut&hide=html,css)](https://github.com/gloria-mariass/github-readme-stats)
+<!-- ![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloria-mariass&show_icons=true&theme=radical) -->
