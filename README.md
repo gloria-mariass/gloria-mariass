@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&color=F70000&center=true&vCenter=true&width=500&lines=Fullstack+Developer;IT+Student)](https://git.io/typing-svg)
 
 <a href="https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723886.htm#fromView=search&page=1&position=34&uuid=f602ef3f-d077-4023-992c-2c9c6e909a37">
-    <img src="https://raw.githubusercontent.com/gloria-mariass/gloria-mariass/main/assets/images/Set_of_programmers_02_01.jpg" alt="Set of Programmers" width="500" align="right"/>
+    <img src="https://raw.githubusercontent.com/gloria-mariass/gloria-mariass/main/assets/images/Set_of_programmers_02_01.jpg" alt="Set of Programmers" width="400" align="right"/>
 </a>
 
 - 🎓 Currently studying **IT at IMD/UFRN**
