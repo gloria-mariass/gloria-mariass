@@ -6,10 +6,10 @@
     <img src="https://raw.githubusercontent.com/gloria-mariass/gloria-mariass/main/assets/images/Set_of_programmers_02_01.jpg" alt="Set of Programmers" width=370 align="right"/>
 </a>
 
-- 🎓 Currently studying **IT at IMD/UFRN**
-- 📚 Graduated from a technical course in **Web Development at IFRN**
-- 💻 Working mostly with **JavaScript, React, Node.js, Java, Spring**
-- 🧠 Always learning: **Flutter, Machine Learning**
+- 🎓 Currently studying **``IT at IMD/UFRN``**
+- 📚 Graduated from a technical course in  **``Web Development at IFRN``**
+- 💻 Working mostly with **``JavaScript, React, Node.js, Java, Spring``**
+- 🧠 Always learning:  **``Flutter, Machine Learning``**
 - 🎮 Enjoys gaming
 
 <br style="clear:both;"/>
