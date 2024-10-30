@@ -2,14 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&color=F70000&center=true&vCenter=true&width=500&lines=Fullstack+Developer;IT+Student)](https://git.io/typing-svg)
 
-<a href="https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723886.htm#fromView=search&page=1&position=34&uuid=f602ef3f-d077-4023-992c-2c9c6e909a37">
-    <img style="float:right;" src="https://raw.githubusercontent.com/gloria-mariass/gloria-mariass/main/assets/images/Set_of_programmers_02_01.jpg" alt="Set of Programmers" width="400" align="right"/>
+<a style="float:right;" href="https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723886.htm#fromView=search&page=1&position=34&uuid=f602ef3f-d077-4023-992c-2c9c6e909a37">
+    <img src="https://raw.githubusercontent.com/gloria-mariass/gloria-mariass/main/assets/images/Set_of_programmers_02_01.jpg" alt="Set of Programmers" width=370 align="right"/>
 </a>
 
 - 🎓 Currently studying **IT at IMD/UFRN**
 - 📚 Graduated from a technical course in **Web Development at IFRN**
 - 💻 Working mostly with **JavaScript, React, Node.js, Java, Spring**
 - 🧠 Always learning: **Flutter, Machine Learning**
+- 🎮 Enjoys gaming
+
+<br style="clear:both;"/>
 
 ### 💪 Core Skills
 ![Core Skills](https://skillicons.dev/icons?i=java,spring,html,css,javascript,bootstrap,react,git,github,maven,php,py,flask,sqlite,cpp,cmake,postman,figma,vscode,&theme=dark&perline=8)
