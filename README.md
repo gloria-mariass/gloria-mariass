@@ -23,3 +23,4 @@
 ### 📈 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloria-mariass&layout=donut&hide=html,css)](https://github.com/gloria-mariass/github-readme-stats)
 <!-- ![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloria-mariass&show_icons=true&theme=radical) -->
+<!-- https://github-readme-stats.vercel.app/api?username=gloria-mariass&show_icons=true\ -->
