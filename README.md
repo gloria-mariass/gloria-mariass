@@ -22,6 +22,6 @@
 ![My Skills](https://skillicons.dev/icons?i=dart,docker,flutter,nextjs,nodejs,postgres,prisma,&theme=dark&perline=5)
 
 ### 📈 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloria-mariass&layout=donut&hide=html,css&bg_color=d111700&title_color=57857a&text_color=f0fcfb&text_bold=true)](https://github.com/gloria-mariass/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloria-mariass&layout=donut&hide=html,css&bg_color=d1117&title_color=57857a&text_color=f0fcfb&text_bold=true)](https://github.com/gloria-mariass/github-readme-stats)
 <!-- ![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloria-mariass&show_icons=true&theme=radical) -->
 <!-- https://github-readme-stats.vercel.app/api?username=gloria-mariass&show_icons=true\ -->
