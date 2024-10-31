@@ -15,6 +15,7 @@
 <br style="clear:both;"/>
 
 <h3>💪 Core Skills</h3>
+
 ![Core Skills](https://skillicons.dev/icons?i=java,spring,html,css,javascript,bootstrap,react,git,github,maven,php,py,flask,sqlite,cpp,cmake,postman,figma,vscode,&theme=dark&perline=8)
 
 ### 🚀 Skills in Progress
