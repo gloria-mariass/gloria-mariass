@@ -1,6 +1,6 @@
 ## Hi there I'm Glória 👩🏻‍💻👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&color=3b6360&center=true&vCenter=true&width=500&lines=Fullstack+Developer;IT+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&color=57857a&center=true&vCenter=true&width=500&lines=Fullstack+Developer;IT+Student)](https://git.io/typing-svg)
 
 <a style="float:right;" href="https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723886.htm#fromView=search&page=1&position=34&uuid=f602ef3f-d077-4023-992c-2c9c6e909a37">
     <img src="https://raw.githubusercontent.com/gloria-mariass/gloria-mariass/main/assets/images/Set_of_programmers_02_01-removebg.png" alt="Set of Programmers" width=380 align="right"/>
@@ -22,6 +22,6 @@
 ![My Skills](https://skillicons.dev/icons?i=dart,docker,flutter,nextjs,nodejs,postgres,prisma,&theme=dark&perline=5)
 
 ### 📈 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloria-mariass&layout=donut&hide=html,css&bg_color=3b82f600&title_color=3b6360&text_color=f0f6fc)](https://github.com/gloria-mariass/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloria-mariass&layout=donut&hide=html,css&bg_color=3b82f600&title_color=57857a&text_color=f0f6fc)](https://github.com/gloria-mariass/github-readme-stats)
 <!-- ![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloria-mariass&show_icons=true&theme=radical) -->
 <!-- https://github-readme-stats.vercel.app/api?username=gloria-mariass&show_icons=true\ -->
