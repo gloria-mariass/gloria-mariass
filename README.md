@@ -1,4 +1,4 @@
-## Hi there I'm Glória 👩🏻‍💻👋
+## Hi there, I'm Glória 👩🏻‍💻👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&color=57857a&center=true&vCenter=true&width=500&lines=Fullstack+Developer;IT+Student)](https://git.io/typing-svg)
 
