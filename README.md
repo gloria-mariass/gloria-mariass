@@ -16,7 +16,7 @@
 
 <h3>💪 Core Skills</h3>
 
-![Core Skills](https://skillicons.dev/icons?i=java,spring,html,css,javascript,bootstrap,react,git,github,maven,php,py,flask,sqlite,cpp,cmake,postman,figma,vscode,&theme=dark&perline=8)
+![Core Skills](https://skillicons.dev/icons?i=java,spring,html,css,javascript,typescript,bootstrap,react,git,github,maven,php,py,flask,sqlite,cpp,cmake,postman,figma,vscode,&theme=dark&perline=8)
 
 ### 🚀 Skills in Progress
 ![My Skills](https://skillicons.dev/icons?i=dart,docker,flutter,nextjs,nodejs,postgres,prisma,&theme=dark&perline=5)
