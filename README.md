@@ -16,10 +16,10 @@
 
 <h3>💪 Core Skills</h3>
 
-![Core Skills](https://skillicons.dev/icons?i=java,spring,html,css,javascript,typescript,bootstrap,react,git,github,maven,php,py,flask,sqlite,cpp,cmake,postman,figma,vscode,prisma,&theme=dark&perline=8)
+![Core Skills](https://skillicons.dev/icons?i=java,spring,html,css,javascript,typescript,bootstrap,react,git,github,maven,php,py,flask,sqlite,cpp,cmake,postman,figma,vscode,prisma,docker,nextjs,nodejs,&theme=dark&perline=8)
 
 ### 🚀 Skills in Progress
-![My Skills](https://skillicons.dev/icons?i=dart,docker,flutter,nextjs,nodejs,postgres,&theme=dark&perline=6)
+![My Skills](https://skillicons.dev/icons?i=dart,flutter,postgres,&theme=dark&perline=6)
 
 ### 📈 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloria-mariass&layout=donut&hide=html,css&bg_color=0d1715&title_color=57857a&text_color=f0fcfb&text_bold=true)](https://github.com/gloria-mariass/github-readme-stats)
